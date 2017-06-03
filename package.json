@@ -1,0 +1,26 @@
+{
+  "name": "Scrollable-Webpage",
+  "version": "1.0.0",
+  "description": "Scrollable-Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrdavidrobison/Scrollable-Webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdavidrobison/Scrollable-Webpage/issues"
+  },
+  "homepage": "https://github.com/mrdavidrobison/Scrollable-Webpage#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-stylus": "^2.6.0"
+  }
+}
