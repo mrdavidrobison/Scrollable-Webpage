@@ -1,0 +1,69 @@
+body
+  padding-top 0px
+
+h1
+  color white
+  background-color black
+  text-align left
+  padding-bottom .1em
+  padding-top .4em
+  padding-left .2em
+  position fixed
+  width 100%
+
+.button  
+  float right
+  font-size 16px
+  
+.btn-md
+  color #B6BDC3
+  background-color #1C1A1F
+  border #404E3F
+
+.sec
+  background-position right bottom, left top
+  background-repeat no repeat
+  background-size cover
+  height 830px
+  margin 0
+  padding 5em
+  width 100%
+  
+#mountainbiking
+  background-image url(https://upload.wikimedia.org/wikipedia/commons/1/17/Mountain_bike_in_downhill_race.jpg)
+  
+#surfing
+  background-image url(https://upload.wikimedia.org/wikipedia/commons/8/8c/Teahupoo1.jpg)
+  
+#skydiving
+  background-image url(https://upload.wikimedia.org/wikipedia/commons/d/d3/Lake_Powell_-_Arizona.JPG)
+  
+#kayaking
+  background-image url(https://static.pexels.com/photos/102633/pexels-photo-102633.jpeg)
+  
+#content
+  background-color black
+  color white
+  font-size 20px
+  padding 1.5em
+  width 30%
+  margin 50px
+ 
+.right
+  float right
+  
+.left
+  float left
+  
+footer
+  background-color black
+  padding-bottom 18em
+  padding-top 3em
+  width 100%
+  
+.social
+  background-color black
+  padding-right 10%
+  padding-left 10%
+  width 100%
+  font-size 18px
