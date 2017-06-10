@@ -4,14 +4,14 @@
   "description": "Scrollable-Webpage",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mrdavidrobison/Scrollable-Webpage.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "david robison",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrdavidrobison/Scrollable-Webpage/issues"
